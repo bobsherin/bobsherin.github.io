@@ -12,7 +12,7 @@
 
 ### Minard Map reMix
 
-<img src="images/sherinMinard.jpg?raw=true"/>
+<img src="images/sherinMinard.png?raw=true"/>
 - [Project Details](/sherinMinard)
 - [PDF](/pdf/sherinMinard.pdf)
 
