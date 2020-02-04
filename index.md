@@ -18,6 +18,15 @@
 
 ---
 
+### W.E.B. Du Bois Population Map
+
+<img src="images/dubois.jpg?raw=true"/>
+- [Project Details](/duBoisPopulationMap)
+- [PDF](/pdf/duBoisPopulationMap.pdf)
+
+---
+
+
 ### Wesland Water Main
 
 <img src="images/westland.JPG?raw=true"/>
