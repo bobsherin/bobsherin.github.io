@@ -20,7 +20,7 @@
 
 ### W.E.B. Du Bois Population Map
 
-<img src="images/dubois.jpg?raw=true"/>
+<img src="images/dubois.JPG?raw=true"/>
 - [Project Details](/duBoisPopulationMap)
 - [PDF](/pdf/duBoisPopulationMap.pdf)
 
