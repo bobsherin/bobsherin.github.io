@@ -18,11 +18,11 @@
 
 ---
 
-### Westland Water Main
+### Wesland Water Main
 
 <img src="images/westland.JPG?raw=true"/>
-- [Project Details](/westland.md)
-- [PDF](/pdf/sherinMinard.pdf)
+- [Project Details](/wesland.md)
+- [PDF](/pdf/wesland.pdf)
 
 ---
 
@@ -30,7 +30,7 @@
 
 <img src="images/campus_map.JPG?raw=true"/>
 - [Project Details](/campus_map.md)
-- [PDF](/pdf/sherinMinard.pdf)
+- [PDF](/pdf/campus_map.pdf)
 
 ---
 <!-- END -->
