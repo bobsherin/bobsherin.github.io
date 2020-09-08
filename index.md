@@ -35,7 +35,7 @@
 
 ---
 
-### Minard Map reMix
+### Campus Map
 
 <img src="images/campus_map.JPG?raw=true"/>
 - [Project Details](/campus_map)
